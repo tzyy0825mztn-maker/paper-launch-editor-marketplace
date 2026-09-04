@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文发布会编辑"
+  short_description: "逐处识别防御性写作，强化论文核心优势、实验职责与章节叙事"
+  default_prompt: "使用 $paper-launch-editor 检查这段论文中的防御性写作，逐处说明问题并给出符合发布会原则的改写。"
