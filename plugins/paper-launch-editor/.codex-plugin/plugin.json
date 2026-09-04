@@ -1,0 +1,19 @@
+{
+  "name": "paper-launch-editor",
+  "version": "0.1.0",
+  "description": "面向中文学术论文的发布会式审校与改写插件",
+  "author": {
+    "name": "Personal"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "论文发布会编辑",
+    "shortDescription": "逐处识别防御性写作，强化论文核心贡献与实验论证",
+    "longDescription": "围绕论文最强贡献组织叙事，检查防御性表达、实验职责和章节结构，并提供事实等价的逐处修改建议与整合改写稿。",
+    "developerName": "Personal",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "检查下面的中文论文，逐处识别防御性写作，并按照论文发布会原则给出修改稿。"
+  }
+}
+
